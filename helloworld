@@ -1,0 +1,26 @@
+#!/bin/bash
+
+#message="Hello, "
+#printf "Hi, %s" "$message"
+#echo $message $1
+
+
+#hello worl with user input
+echo "Who Are You?"
+read name
+echo "Hello, $name."
+
+echo "What Are You Doing?"
+read action
+echo "You Are ${action}ing."
+
+
+
+
+
+
+
+
+
+
+

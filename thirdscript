@@ -1,0 +1,3 @@
+#!/bin/bash something wrong
+echo "this line never gets printed"
+
